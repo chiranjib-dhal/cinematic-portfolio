@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://chiranjib-dhal.github.io/cinematic-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -27,6 +28,5 @@
     "tailwindcss": "^4.3.3",
     "typescript": "~6.0.2",
     "vite": "^8.2.0"
-  },
-  "homepage": "https://chiranjib-dhal.github.io/cinematic-portfolio"
+  }
 }
